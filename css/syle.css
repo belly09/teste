@@ -1,0 +1,26 @@
+body{
+  margin: 0px;
+}
+
+.exemplo {
+  width: 150px;
+  height: 150px;
+  background-color: blue;
+  margin: auto;
+  margin-top: 100px;
+  transition: all 1s linear;
+
+}
+
+.exemplo:hover {
+  background-color: red;
+}
+
+a {
+  color: goldenrod;
+  transition: all 1s linear;
+}
+
+a:hover {
+  color: orangered
+}
